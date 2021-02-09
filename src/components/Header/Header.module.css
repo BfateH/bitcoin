@@ -1,0 +1,14 @@
+.Header {
+
+}
+
+.img {
+    width: 50px;
+    height: auto;
+}
+
+.logoText {
+    font-size: 12px;
+    font-weight: bold;
+    color: orange;
+}
